@@ -1,0 +1,22 @@
+description: ' Three-channel laser diode pulse regulator module enables the continuous
+  wave operation of laser diodesor spike-free switching with defined current pulsesin
+  a frequency range of up to 155 MHz. The threechannels can be accumulatively pulsed
+  and the peak optical power ofthe laser diode is regulated separately. '
+github_branch: LDD01A
+github_description: ' Three-channel laser diode pulse regulator module enables the
+  continuous wave operation of laser diodesor spike-free switching with defined current
+  pulsesin a frequency range of up to 155 MHz. The threechannels can be accumulatively
+  pulsed and the peak optical power ofthe laser diode is regulated separately. '
+github_repo: LDD01
+github_url: https://github.com/mlab-modules/LDD01
+homepage: false
+images:
+- doc/img/LDD01_top_small.jpg
+- doc/src/LDD_preview.png
+- doc/img/LDD01A_QRcode.png
+- sch/LDD01A.svg
+mark: 50
+status: 0
+tags: []
+title: LDD01
+updated: '2023-09-17T11:41:37.347086+00:00'
